@@ -18,4 +18,5 @@
 @import "layout/contact.scss";
 @import "layout/footer.scss";
 
-
+// Import custom styles on top of the Freelance theme
+@import "custom/style.scss";
